@@ -24,6 +24,7 @@ public class MainPage {
     public void clickAppt() {
         makeAppt.click();
 
+
     }
 
 }
